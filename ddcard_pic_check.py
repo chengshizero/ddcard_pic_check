@@ -30,7 +30,7 @@ for i in post2:
 #['AnonymousAvatar_female_swqLg']
 #<div class="AnonymousAvatar_female_swqLg"></div>
 #男
-#-----------------重點----------作者坑人--------------
+#-----------------重點----------小坑--------------
 #['InitialAvatar_initial_15lap', 'InitialAvatar_F_1wnuz']
 #<div class="InitialAvatar_initial_15lap InitialAvatar_F_1wnuz">C</div>
 #板塊男
